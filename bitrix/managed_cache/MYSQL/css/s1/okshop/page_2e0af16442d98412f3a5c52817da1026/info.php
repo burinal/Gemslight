@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/okshop/components/bitrix/sale.basket.basket/.default/style.css" => "153513805630229","/bitrix/js/main/core/css/core_panel.css" => "154103676162290",)); ?>

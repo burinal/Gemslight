@@ -1,0 +1,38 @@
+a#bx_topmenu_btn_loc_switch .bx-panel-small-button-icon {
+    background-image: url('/bitrix/images/accorsys.localization/icons/loc_switch.png') !important;
+    background-position: -7px 0 !important;
+}
+a#bx_topmenu_btn_loc_switch:hover .bx-panel-small-button-icon {
+    background-position: -7px -35px !important;
+}
+a#bx_topmenu_btn_loc_switch_enabled .bx-panel-small-button-icon {
+    background-image: url('/bitrix/images/accorsys.localization/icons/loc_switch.png') !important;
+    background-position: 26px 0 !important;
+}
+a#bx_topmenu_btn_loc_switch_enabled:hover .bx-panel-small-button-icon {
+    background-position: 26px -35px !important;
+}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-modifyTranslate {background:url(/bitrix/images/accorsys.localization/icons/action_text_id_edit.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-delTag {background:url(/bitrix/images/accorsys.localization/icons/action_delete.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-delTagHint {background:url(/bitrix/images/accorsys.localization/icons/action_title_delete.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-delTagDisabled {background:url(/bitrix/images/accorsys.localization/icons/action_delete_disabled.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-addTitle {background:url(/bitrix/images/accorsys.localization/icons/action_title_new.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-addTitleDisabled {background:url(/bitrix/images/accorsys.localization/icons/action_title_new_disabled.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-modifyTitle {background:url(/bitrix/images/accorsys.localization/icons/action_title_edit.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-newTag {background:url(/bitrix/images/accorsys.localization/icons/action_text_id_new.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-menu-edit {background:url(/bitrix/images/accorsys.localization/icons/action_menu_edit.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-selectPart {background:url(/bitrix/images/accorsys.localization/icons/action_link_remove.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-modifyText {background:url(/bitrix/images/accorsys.localization/icons/action_edit.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-about {background:url(/bitrix/images/accorsys.localization/icons/action_about.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-settings {background:url(/bitrix/images/accorsys.localization/icons/action_edit_settings.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-activate {background:url(/bitrix/images/accorsys.localization/icons/action_message_enable.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-deactivate {background:url(/bitrix/images/accorsys.localization/icons/action_message_disable.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-inapp-purschases {background:url(/bitrix/images/accorsys.localization/icons/inapp_purchases.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-visit-marketplace {background:url(/bitrix/images/accorsys.localization/icons/visit_marketplace.png) center center no-repeat;}
+
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-searchTranslate {background:url(/bitrix/images/accorsys.localization/icons/action_search.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-searchTranslateGoogle {background:url(/bitrix/images/accorsys.localization/icons/translate/translate_google_translate.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-searchTranslateYandex {background:url(/bitrix/images/accorsys.localization/icons/translate/translate_yandex_perevod.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-searchTranslateMicrosoft {background:url(/bitrix/images/accorsys.localization/icons/translate/translate_microsoft_translator.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-searchWiki {background:url(/bitrix/images/accorsys.localization/icons/translate/search_wikipedia.png) center center no-repeat;}
+#bx-admin-prefix .bx-core-popup-menu-item-icon.loc-searchYouTube {background:url(/bitrix/images/accorsys.localization/icons/translate/search_youtube.png) center center no-repeat;}

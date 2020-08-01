@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/okshop/components/bitrix/catalog/other_template/bitrix/catalog.section/bootstrap_v4/script.js" => "15410370245390","/bitrix/components/bitrix/catalog.item/templates/bootstrap_v4/script.js" => "154103702240885",)); ?>

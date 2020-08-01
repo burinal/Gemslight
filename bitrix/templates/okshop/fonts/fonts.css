@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'PF Regal Display Pro Black';
+	src: url('PFRegalDisplayPro-Black.otf');
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'PF Regal Text Pro';
+	src: url('PFRegalTextPro-RegularA.otf');
+	font-weight: 400;
+}

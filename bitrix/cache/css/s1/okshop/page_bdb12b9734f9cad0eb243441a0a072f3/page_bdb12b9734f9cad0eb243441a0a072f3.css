@@ -1,0 +1,70 @@
+
+
+/* Start:/bitrix/templates/okshop/components//bitrix/system.pagenavigation/grid/style.min.css?15351381342057*/
+.main-ui-pagination{font-size:11px;text-transform:uppercase;display:table;text-align:center}.main-ui-pagination-pages,.main-ui-pagination-label,.main-ui-pagination-pages-list,.main-ui-pagination-page,.main-ui-pagination-arrows,.main-ui-pagination-arrow{display:inline-block}.main-ui-pagination-arrows{margin-left:10px;margin-right:10px}.main-ui-pagination-arrow{position:relative;margin-right:15px;margin-left:30px}.main-ui-pagination-arrow:last-child{margin-left:0;margin-right:30px}.main-ui-pagination-arrow.main-ui-pagination-next::before,.main-ui-pagination-arrow.main-ui-pagination-prev::before,.main-ui-pagination-arrow.main-ui-pagination-next::after,.main-ui-pagination-arrow.main-ui-pagination-prev::after{background:#5c6470;display:inline-block;position:absolute;width:2px;height:7px;content:''}a.main-ui-pagination-arrow.main-ui-pagination-next::before,a.main-ui-pagination-arrow.main-ui-pagination-prev::before,a.main-ui-pagination-arrow.main-ui-pagination-next::after,a.main-ui-pagination-arrow.main-ui-pagination-prev::after{background:#2067b0}.main-ui-pagination-arrow.main-ui-pagination-prev::before{left:-10px;top:2px;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.main-ui-pagination-arrow.main-ui-pagination-prev::after{left:-10px;top:7px;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}.main-ui-pagination-arrow.main-ui-pagination-next::before{right:-10px;top:2px;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}.main-ui-pagination-arrow.main-ui-pagination-next::after{right:-10px;top:7px;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.main-ui-pagination-page{padding-left:4px;padding-right:3px}.main-ui-pagination-page.main-ui-pagination-active{color:#000}
+/* End */
+
+
+/* Start:/bitrix/templates/okshop/components/bitrix/news.list/news_details/style.css?15351380461083*/
+.news-list {
+	margin:20px 0;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.news-list h2 {
+	border-bottom:1px solid #ccc;
+	line-height:40px;
+	padding: 0 10px;
+	font-size:18px;
+	font-weight:300;
+    margin: 0;
+}
+.news-list > a{
+	font-weight: 300;
+
+	font-size: 12px;
+	text-decoration: underline;
+	padding: 15px 10px;
+	display: block;
+}
+.news-list > a:hover{text-decoration: none;}
+.news-list .news-item{
+	padding:10px 0 20px;
+	margin:0 10px;
+	border-bottom:1px solid #ccc;
+}
+
+.news-list .news-item img.preview_picture {
+	float:left;
+	margin:0 7px 0 0;
+	max-width:35px;
+	max-height:35px;
+}
+.news-list .news-item a.link{
+	font-size: 13px;
+	line-height: 15px;
+	min-height: 30px;
+	max-height: 30px;	
+	overflow: hidden;
+	text-decoration: none;
+	display: block;
+	margin: 3px 0 10px;
+	transition: all 0.4s ease-out;
+}
+.news-list .news-item a.link:hover{
+	text-decoration:underline;
+	max-height: 105px;
+}
+.news-list .news-item .news-date-time {
+	color:#888888;
+	display:block;
+	padding-bottom:3px;
+	font-size:11px;
+	line-height:10px;
+}
+/* End */
+/* /bitrix/templates/okshop/components//bitrix/system.pagenavigation/grid/style.min.css?15351381342057 */
+/* /bitrix/templates/okshop/components/bitrix/news.list/news_details/style.css?15351380461083 */

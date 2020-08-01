@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/okshop/components/krayt/emarket.feedback/rev_style/style.css" => "1535138136292",)); ?>

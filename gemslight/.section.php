@@ -1,0 +1,6 @@
+<?
+$sSectionName = "gemslight";
+$arDirProperties = Array(
+
+);
+?>

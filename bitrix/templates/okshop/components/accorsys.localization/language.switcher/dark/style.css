@@ -1,0 +1,143 @@
+/*======================
+new for popup
+========================*/
+#accorsys-switch-lang.popup {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    z-index: 994;
+    box-shadow: 0 1px 2px 0 rgba(56, 94, 104, 0.26);
+    background-image: linear-gradient(#fafcfd 0%, #f9fbfc 100%);
+}
+#accorsys-switch-lang.popup a {
+    display: block;
+    padding: 0 0 0 22px;
+    margin: 0 0 0 12px;
+    font-size: 13px;
+    line-height: 13px;
+    text-decoration: none;
+}
+#accorsys-switch-lang.popup .accorsys-btn a {
+    display: inline-block;
+    padding: 0 0 0 21px;
+    color: #576e75;
+    margin-right: 15px !important;
+}
+#accorsys-switch-lang.popup .accorsys-btn a:after {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    top: 18px;
+    right: 12px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 7px 5px 0 5px;
+    border-color: #576e75 transparent transparent transparent;
+}
+#accorsys-switch-lang.popup .selector {
+    background-image: linear-gradient(#fafcfd 0%, #f9fbfc 100%);
+    display: none;
+    position: relative;
+    width: auto;
+}
+#accorsys-switch-lang.popup .selector a{
+    position: relative;
+    color: #3E7A8C;
+    font-size: 13px;
+    text-decoration: none;
+}
+#accorsys-switch-lang.popup .selector a:first-of-type {
+    margin-top: 2px;
+}
+#accorsys-switch-lang .flag-container-default-lang > span {
+    float: inherit;
+    height: 11px;
+    margin-left: -1px;
+    margin-right: 2px;
+    margin-top: -1px;
+    vertical-align: middle;
+    width: 16px;
+}
+
+_:-ms-input-placeholder, :root #accorsys-switch-lang .flag-container-default-lang > span {
+    margin-top: -2px;
+} /*new*/ /*hack for ie =>10*/
+
+#accorsys-switch-lang .flag-container-default-lang > span:not(*:root) {
+    margin-top: -2px;
+} /*new*/ /*hack for chrome */
+
+#accorsys-switch-lang .AccorsyslanguageContainer {
+    padding: 10px 22px 10px 12px;
+}
+
+#accorsys-switch-lang .selector .AccorsyslanguageContainer {
+    cursor: pointer;
+}
+
+#accorsys-switch-lang .AccorsyslanguageContainer:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#dbeaf4), color-stop(100%,#b3d4e7));
+    background:-webkit-linear-gradient(top,#dbeaf4 0%,#b3d4e7 100%);
+    background:   -moz-linear-gradient(top,#dbeaf4 0%,#b3d4e7 100%);
+    background:    -ms-linear-gradient(top,#dbeaf4 0%,#b3d4e7 100%);
+    background:     -o-linear-gradient(top,#dbeaf4 0%,#b3d4e7 100%);
+    background:        linear-gradient(to bottom, #dbeaf4 0%,#b3d4e7 100%);
+}
+
+
+#accorsys-switch-lang .selector .AccorsyslanguageContainer:hover a {
+    color: #1d3941;
+}
+
+#accorsys-switch-lang .default.AccorsyslanguageContainer {
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+#accorsys-switch-lang.popup .AccorsyslanguageContainer a {
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+#accorsys-switch-lang .default.AccorsyslanguageContainer .flag-container-default-lang > span {
+    float: inherit;
+    height: 11px;
+    margin-left: -1px;
+    margin-right: 2px;
+    margin-top: -2px;
+    vertical-align: middle;
+    width: 16px;
+}
+
+_:-ms-input-placeholder, :root
+#accorsys-switch-lang .default.AccorsyslanguageContainer .flag-container-default-lang > span {
+    margin-top: -3px;
+} /*new*/ /*hack for ie =>10*/
+
+#accorsys-switch-lang .default.AccorsyslanguageContainer .flag-container-default-lang > span:not(*:root) {
+    margin-top: -3px;
+} /*new*/ /*hack for chrome */
+
+#accorsys-switch-lang .accorsys-btn {
+    position: relative;
+    max-width: 190px;
+    min-width: 103px;
+    padding: 10px 12px;
+    background-image: linear-gradient(#fafcfd 0%, #f9fbfc 100%);
+    cursor: pointer;
+}
+
+#accorsys-switch-lang .accorsys-btn.not_clickable {
+    cursor: default;
+}
+
+
+
+
+
+
+
+

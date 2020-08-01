@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/accorsys.localization/admin/locale_file_property.php");?>

@@ -1,0 +1,1 @@
+DELETE FROM accorsys_extensions WHERE MODULE_ID like 'accorsys.localization'

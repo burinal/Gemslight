@@ -1,0 +1,11 @@
+
+
+/* Start:/bitrix/templates/okshop/components/krayt/emarket.feedback/rev_style/style.css?1535138136292*/
+div.mfeedback {}
+div.mf-name, div.mf-email, div.mf-captcha, div.mf-message {width:80%; padding-bottom:0.4em;}
+div.mf-name input, div.mf-email input {width:60%;}
+div.mf-message textarea {width: 60%;}
+span.mf-req {color:red;}
+div.mf-ok-text {color:green; font-weight:bold; padding-bottom: 1em;}
+/* End */
+/* /bitrix/templates/okshop/components/krayt/emarket.feedback/rev_style/style.css?1535138136292 */

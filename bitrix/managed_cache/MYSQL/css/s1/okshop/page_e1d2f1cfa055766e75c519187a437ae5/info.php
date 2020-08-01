@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/okshop/components/bitrix/news/news_new/bitrix/news.detail/.default/style.css" => "1535138464477",)); ?>

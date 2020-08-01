@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/components/accorsys.localization/language.switcher/templates/light/script.js" => "15410775122451","/bitrix/components/bitrix/catalog.section/templates/.default/script.js" => "15410370235390","/bitrix/components/bitrix/catalog.item/templates/.default/script.js" => "154103702240883",)); ?>

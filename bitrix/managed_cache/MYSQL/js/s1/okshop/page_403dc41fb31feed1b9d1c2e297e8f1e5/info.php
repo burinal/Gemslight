@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/okshop/components/bitrix/sale.basket.basket/.default/script.js" => "153513805621925",)); ?>

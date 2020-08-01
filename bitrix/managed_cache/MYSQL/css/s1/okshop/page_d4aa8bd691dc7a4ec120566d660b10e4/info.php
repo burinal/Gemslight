@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/bitrix/templates/okshop/components/bitrix/sale.basket.basket/bootstrap_v4/style.css" => "154103731239983","/bitrix/templates/okshop/components/bitrix/sale.basket.basket/bootstrap_v4/themes/green/style.css" => "1541037312107","/bitrix/components/bitrix/sale.gift.basket/templates/.default/style.css" => "154103731828165",)); ?>
